@@ -26,3 +26,7 @@ Before running the project, ensure you have a working webcam and the following d
 ```bash
 pip install opencv-python cvzone mediapipe
 ```
+
+
+https://github.com/user-attachments/assets/b84fce5e-41d5-4694-ad65-f5b21cd865c6
+
